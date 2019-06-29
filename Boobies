@@ -1,0 +1,8 @@
+{
+  "content": "@everyone",
+  "tts": true,
+  "embed": {
+    "title": "Poop",
+    "description": "This is an embedded message."
+  }
+}
